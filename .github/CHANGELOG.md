@@ -30,6 +30,8 @@
 1. [EFB] Added QuickControls to flyPad StatusBar - @Benjozork (Benjamin Dupont) @frankkopp (Frank Kopp)
 1. [SOUND] Fix announcements playing twice and adding check for power to PA - @frankkopp (Frank Kopp)
 1. [EFB] Added pause at T/D function - @2hwk (2Cas#1022)
+1. [COND] Add mixer unit and recirculation fans to air conditioning system - @mjuhe (Miquel Juhe)
+1. [COND] Add trim air valves to air conditioning system - @mjuhe (Miquel Juhe)
 
 ## 0.9.0
 
